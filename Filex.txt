@@ -7,3 +7,4 @@ change for master branch
 
 change for bug 2?
 change : change for remote master
+change : change for remote master wit hconflict rebase
