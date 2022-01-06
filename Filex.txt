@@ -7,4 +7,8 @@ change for master branch
 
 change for bug 2?
 change : change for remote master
+<<<<<<< HEAD
 change : change for remote master wit hconflict rebase
+=======
+change : WI5 do change for conflict
+>>>>>>> 4fbadd8 (WI5: changes in local master)
